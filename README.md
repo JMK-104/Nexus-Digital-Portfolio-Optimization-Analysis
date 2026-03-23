@@ -13,6 +13,7 @@ The Finance and Product teams have requested recommendations on which products t
 - Accessories category generates only 105% ROI—below the 143% portfolio average—with declining performance from 265% ROI (Q2 2020) to 133% ROI (Q4 2023), indicating potential discontinuation candidates
 - Revenue concentration risk: Laptops (41%), Smartphones (22%), and Tablets (11%) comprise 74% of total revenue, meaning portfolio decisions in these categories have an outsized impact on company performance
 
+
 ### Product Team
 - Macro-economic events significantly disrupted traditional seasonality: COVID-19 pandemic reversed seasonal patterns with Spring 2020 revenue ($3.25M) exceeding Black Friday 2020 ($1.7M), while chip shortage (2021) and inflation (2022) caused category-wide revenue contractions of 18-52% vs. pre-pandemic baseline
 - Black Friday/Holiday season drives 2-2.5x revenue uplift for Smartphones across all regions, while Spring sales generate 2.4x uplift for Monitors and Back-to-School drives 2.2-2.4x uplift for Tablets/Laptops in Latin America, indicating clear inventory allocation priorities by season and geography
