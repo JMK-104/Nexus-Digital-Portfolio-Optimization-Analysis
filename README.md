@@ -77,3 +77,18 @@ The following Key Performance Indicators (KPIs) will be used to evaluate sales p
 
 ---
 ## Recommendations
+
+### Finance Team: Portfolio Rationalization
+- **Discontinue underperforming Accessories products**
+  - Accessories deliver 105% ROI vs. 143% portfolio average, with declining trajectory from 265% ROI (Q2 2020 launch) to 133% (Q4 2023)
+  - Accessories represent minimal revenue contribution (<10%) with consistent underperformance vs. baseline
+  - Estimated margin improvement: +0.8pp through elimination of negative-margin inventory carrying costs
+- **Reallocate inventory investment to Smartphones for Q4 2024**
+  - Smartphones deliver the highest category ROI (176%) with recovered margins (73% in Q4 2023, near historical peak of 74%)
+  - Q4 seasonal uplift of 190% vs. baseline and consistent 1.9-2.5x Black Friday performance across all regions
+  - Recommend doubling Q4 smartphone inventory allocation vs. historical levels
+  - Projected impact: +$180K additional profit in Q4 2024, +1.2pp margin contribution
+- **Implement tiered portfolio management strategy based on revenue concentration**
+  - Top 3 categories (Laptops 41%, Smartphones 22%, Tablets 11%) represent 74% of revenue
+  - Prioritize margin optimization in these categories over lower-contribution products
+  - Establish a minimum ROI threshold of 150% for continued product investment; phase out products consistently below this benchmark
