@@ -92,3 +92,19 @@ The following Key Performance Indicators (KPIs) will be used to evaluate sales p
   - Top 3 categories (Laptops 41%, Smartphones 22%, Tablets 11%) represent 74% of revenue
   - Prioritize margin optimization in these categories over lower-contribution products
   - Establish a minimum ROI threshold of 150% for continued product investment; phase out products consistently below this benchmark
+
+
+### Product Team: Inventory & Seasonal Strategy
+- **Reduce Audio product inventory 60% in Q1, maintain minimal stock until Q3**
+  - Audio demonstrates systematic post-holiday margin collapse: 65% margin (Holiday 2021) → 59% margin (Q1 2022), indicating aggressive holiday discounting followed by clearance sales
+  - Q1 inventory reduction eliminates margin-destroying clearance cycle
+  - Estimated impact: +0.5pp margin improvement through reduced Q1 carrying costs and avoided clearance discounting
+- **Develop region-specific seasonal inventory strategies**
+  - Black Friday: Prioritize Smartphone inventory in all regions (2-2.5x uplift), particularly Smartphone Budget (Europe) and Smartphone Ultra (Latin America)
+  - Back-to-School: Allocate Tablets/Laptops to Latin America (2.2-2.4x uplift), Tablets to Asia-Pacific (1.9x)
+  - Spring Sales: Stock Monitors in Asia-Pacific/Europe (2.4x uplift)
+  - This targeted allocation maximizes capital efficiency by matching inventory to demonstrated regional seasonal demand patterns
+- **Establish macro-event contingency protocols**
+  - 2020-2022 demonstrated significant volatility: pandemic reversed seasonality, chip shortage contracted revenue 18-52%, inflation reduced performance 18-26% vs. baseline
+  - Implement quarterly scenario planning with inventory flexibility provisions (supplier return options, flexible payment terms)
+  - Maintain 15% buffer inventory for high-ROI categories (Smartphones, Laptops) to capitalize on unexpected demand surges while limiting downside exposure
