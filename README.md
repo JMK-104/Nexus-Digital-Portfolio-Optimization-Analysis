@@ -5,6 +5,13 @@ Nexus Digital is a global consumer electronics e-commerce company operating acro
 
 The Finance and Product teams have requested recommendations on which products to prioritize, which to discontinue, and how to optimize inventory allocation to increase overall profit margin by 3-5 percentage points.
 
+The following Key Performance Indicators (KPIs) will be used to evaluate sales performance in this analysis:
+- **Revenue**: Total dollar value of transactions
+- **Return on Investment (ROI)**: Profit relative to total cost invested, expressed as a percentage
+- **Profit Margin**: Profit as a percentage of revenue, measuring operational efficiency
+- **Average Order Value (AOV)**: Mean transaction size, indicating customer spending behavior
+- **Quarterly Performance Trends**: Time-series analysis of revenue and profitability patterns
+
 ---
 
 ## Executive Summary
@@ -18,3 +25,18 @@ The Finance and Product teams have requested recommendations on which products t
 - Macro-economic events significantly disrupted traditional seasonality: COVID-19 pandemic reversed seasonal patterns with Spring 2020 revenue ($3.25M) exceeding Black Friday 2020 ($1.7M), while chip shortage (2021) and inflation (2022) caused category-wide revenue contractions of 18-52% vs. pre-pandemic baseline
 - Black Friday/Holiday season drives 2-2.5x revenue uplift for Smartphones across all regions, while Spring sales generate 2.4x uplift for Monitors and Back-to-School drives 2.2-2.4x uplift for Tablets/Laptops in Latin America, indicating clear inventory allocation priorities by season and geography
 - Audio category shows volatile performance with Q1 post-holiday crashes (52% ROI, Q1 2022) following strong holiday periods (195% ROI, Holiday 2021), suggesting aggressive holiday discounting damages profitability and warrants inventory strategy reassessment
+
+---
+## Key Findings and Insights
+
+### Finance Team
+
+#### Revenue Performance
+
+*Initial Finding*
+- Total revenue across 2018-2023 reached $125.9M, with monthly revenue climbing to a November 2019 peak of $3.6M before declining to a near-historical low of $0.9M in January 2021, followed by a gradual recovery to a historical high of $4.4M in December 2023
+- Laptops comprise 41% of total revenue, Smartphones 22%, and Tablets 11%; all other categories contribute less than 10% individually, creating significant concentration risk where strategic decisions in the top three categories have an outsized portfolio impact
+- Three distinct seasonal revenue periods emerged: Spring (March/April), Back-to-School (August/September), and Black Friday/Holiday (November), with exceptions during Q1 2020 (COVID outbreak) and Q4 2020 (supply chain disruptions)
+
+---
+## Recommendations
