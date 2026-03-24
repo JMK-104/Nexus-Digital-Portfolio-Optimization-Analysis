@@ -32,11 +32,48 @@ The following Key Performance Indicators (KPIs) will be used to evaluate sales p
 ### Finance Team
 
 #### Revenue Performance
+*Initial Findings*
+  - Total revenue across 2018-2023 reached $125.9M, with monthly revenue climbing to a November 2019 peak of $3.6M before declining to a near-historical low of $0.9M in January 2021, followed by a gradual recovery to a historical high of $4.4M in December 2023
+  - Laptops comprise 41% of total revenue, Smartphones 22%, and Tablets 11%; all other categories contribute less than 10% individually, creating significant concentration risk where strategic decisions in the top three categories have an outsized portfolio impact
+  - Three distinct seasonal revenue periods emerged: Spring (March/April), Back-to-School (August/September), and Black Friday/Holiday (November), with exceptions during Q1 2020 (COVID outbreak) and Q4 2020 (supply chain disruptions)
 
-*Initial Finding*
-- Total revenue across 2018-2023 reached $125.9M, with monthly revenue climbing to a November 2019 peak of $3.6M before declining to a near-historical low of $0.9M in January 2021, followed by a gradual recovery to a historical high of $4.4M in December 2023
-- Laptops comprise 41% of total revenue, Smartphones 22%, and Tablets 11%; all other categories contribute less than 10% individually, creating significant concentration risk where strategic decisions in the top three categories have an outsized portfolio impact
-- Three distinct seasonal revenue periods emerged: Spring (March/April), Back-to-School (August/September), and Black Friday/Holiday (November), with exceptions during Q1 2020 (COVID outbreak) and Q4 2020 (supply chain disruptions)
+*Deep Dive Findings*
+  - 2020 pandemic reversed traditional seasonality patterns: Spring revenue reached $3.25M and Back-to-School $2.62M compared to Black Friday/Holiday $1.7M—a complete inversion of historical patterns where BF/H typically generates 50-100% higher revenue than other seasonal periods
+  - Compared to the pre-pandemic baseline, 2020 Laptop revenue grew 24% (driven by Business Notebook in Asia-Pacific at 140% and Gaming Laptop RTX in North America at 141%), while all other categories contracted: Tablets -63%, Audio -63%, Smartphones -62%, Wearables -61%
+  - 2023 performance recovered to 95-102% of pre-pandemic baseline across all categories, with Latin America showing exceptional growth in Smart Speaker (147%), Smartphone Budget (140%), and Smart Watch Pro (153%)
+
+#### Return on Investment (ROI)
+*Initial Findings*
+  - Smartphones deliver the highest category ROI at 176%, while Audio and Accessories deliver the lowest at 106% and 105% respectively, indicating significant performance dispersion across the portfolio
+  - Macro events had measurable impacts on ROI: Trade War, Chip Shortage, and Inflation/Recession created depressive effects, while Tech Boom (2019) and 2023 Economic Recovery provided uplift; COVID-19 Pandemic had the most significant impact, fundamentally disrupting seasonal ROI patterns
+
+*Deep Dive Findings*
+  - Smartphones reached a historical ROI peak of 350% with 74% profit margin in Q4 2019 (generating $2.43M revenue), declined to 200% ROI/62% margin during 2020-2022 holidays (with revenue contracting to $1.4M), bottomed at 65% ROI/37% margin in Q1 2021 (chip shortage), then recovered to 320% ROI/73% margin by Q4 2023
+  - Accessories entered product line in Q1 2020 with strong Q2 performance (265% ROI, 46% margin, $0.21M revenue) but experienced steep decline to 74% ROI/38% margin/$0.11M revenue by Q4 2022, with historical low of 44% ROI/28% margin in Q1 2022; partial recovery to 133% ROI/54% margin by Q4 2023 remains below portfolio average of 143%
+  - 2021 Chip Shortage caused category-wide revenue contraction vs. baseline: Tablets -52%, Smartphones -45%, Laptops -45%, Wearables -21%; Audio was the sole growth category at 104% vs. baseline, with Smart Speaker in Latin America delivering an exceptional 207% uplift
+
+#### Profit Margin
+  - Audio category demonstrates volatile margin performance: Q1 post-holiday crashes to 59% margin (Q1 2022) following strong holiday periods of 65% margin (Holiday 2021), suggesting an aggressive holiday discounting strategy damages subsequent quarter profitability
+  - Holiday 2019 and 2021 represented Audio's peak performance at $0.85M revenue/195% ROI/65% margin, followed by Q1 2022 collapse to $0.43M revenue/52% ROI/59% margin and weak Holiday 2022 of $0.57M revenue/104% ROI/46% margin—indicating a systematic post-holiday margin compression pattern
+  - 2022 Inflation/Recession period saw all categories perform 74-82% vs. pre-pandemic baseline, with Wearables worst affected (74%) and Smartphones most resilient (82%); notably, all categories below 70% in 2021 showed recovery signs in 2022
+
+### Product Team
+
+#### Average Order Value (AOV) & Seasonal Performance
+*Initial Findings*
+  - AOV shows consistent Q4 spikes annually, with Laptops demonstrating the highest lifetime AOV (~$9.1K in Q1 2020 peak, ~$3.2K lifetime average)
+  - While Laptops have the highest absolute AOV, Smartphones show the greatest seasonal uplift, particularly in Q4 (190% vs. baseline), followed by Audio (168%) and Tablets (160%); Laptops demonstrate 157% Q4 uplift
+  - Black Friday/Holiday uplift varies by category: Smartphones/Audio/Wearables achieve strongest BF/H performance (~2x, ~1.7x, ~1.6x), while Monitors/Cameras/Accessories/Laptops peak during Spring sales (~2.1x, ~1.9x, ~1.8x, ~1.8x); only Tablets perform best in Back-to-School (~1.59x), though by minimal margin (0.04%)
+
+*Deep Dive Fidings*
+  - Black Friday revenue is predominantly driven by Smartphones (1.9-2.5x uplift) across all regions, with Smartphone Budget in Europe (2.4x) and Smartphone Ultra in Latin America (2.5x) providing the greatest uplift
+  - Back-to-School revenue concentrated in Tablets/Laptops in Latin America (2.4x and 2.2x), Tablets in Asia-Pacific (1.9x), and Bluetooth Speakers in Latin America (1.9x)
+  - Spring sales carried primarily by Monitors in Asia-Pacific/Europe (2.4x), with significant outliers: Wireless Gaming Mouse in Latin America (3.6x) and Action Camera 4K in Latin America (3.4x)
+
+#### Quarterly Performance & Macro-Event Impact
+  - Spring and Back-to-School revenue spikes ($1.2-2.5M) are consistently smaller than Black Friday/Holiday spikes ($2.3-4.4M) across 2018, 2019, 2021-2023; 2020 reversed this with Spring $3.25M and B2S $2.62M exceeding BF/H $1.7M—representing a complete seasonal pattern inversion
+  - Monitors, Accessories, and Cameras (collectively 11% of revenue) were introduced in Q1 2020 with no pre-pandemic baseline for comparison, limiting historical trend analysis but representing recent portfolio diversification efforts
+  - 2023 recovery brought all products to 95-102% of the pre-pandemic baseline, indicating a return to normalized market conditions and a potential opportunity for strategic portfolio optimization without macro-economic headwinds
 
 ---
 ## Recommendations
