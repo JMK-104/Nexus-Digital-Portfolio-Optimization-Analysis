@@ -40,7 +40,7 @@ After initial data cleaning in Excel, SQL was used to perform final cleaning and
 
 A Data Dictionary for this dataset can be found [here](excel/nexus_digital_data_dictionary.xlsx)
 
-An Issues Log containing data quality issues found in the original dataset can be found [here](excel/nexus_digital_issues_log.slsx)
+An Issues Log containing data quality issues found in the original dataset can be found [here](excel/nexus_digital_issues_log.xlsx)
 
 The SQL queries used to create the data structure and prepare it for the dashboard can be found [here](sql/ddl).
 
