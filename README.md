@@ -38,7 +38,7 @@ The Nexus Digital book of business contains 103,000 records with approximately 2
 
 After initial data cleaning in Excel, SQL was used to perform final cleaning and prepare the data for dashboard creation. 
 
-A Data Dictionary for this dataset can be found [here](excel/nexus_digital_data_dictionary.slsx)
+A Data Dictionary for this dataset can be found [here](excel/nexus_digital_data_dictionary.xlsx)
 
 An Issues Log containing data quality issues found in the original dataset can be found [here](excel/nexus_digital_issues_log.slsx)
 
