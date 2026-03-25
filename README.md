@@ -26,6 +26,8 @@ The following Key Performance Indicators (KPIs) will be used to evaluate sales p
 - Black Friday/Holiday season drives 2-2.5x revenue uplift for Smartphones across all regions, while Spring sales generate 2.4x uplift for Monitors and Back-to-School drives 2.2-2.4x uplift for Tablets/Laptops in Latin America, indicating clear inventory allocation priorities by season and geography
 - Audio category shows volatile performance with Q1 post-holiday crashes (52% ROI, Q1 2022) following strong holiday periods (195% ROI, Holiday 2021), suggesting aggressive holiday discounting damages profitability and warrants inventory strategy reassessment
 
+An interactive Tableau dashboard highlighting these findings can be downloaded [here](tableau/dashboard/nexus_digital_finance_dashboard.twbx).
+
 ---
 ## Data Structure Overview
 
