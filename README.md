@@ -28,12 +28,21 @@ The following Key Performance Indicators (KPIs) will be used to evaluate sales p
 
 An interactive Tableau dashboard highlighting these findings can be downloaded [here](tableau/dashboard/nexus_digital_finance_dashboard.twbx).
 
+| ![dashboard_screenshot](tableau/images/dashboard_screenshot.png) |
+|---|
+
 ---
 ## Data Structure Overview
 
 The Nexus Digital book of business contains 103,000 records with approximately 25,000 unique customers. This dataset covers data from 2018 to 2023.
 
-After initial data cleaning in Excel, SQL was used to perform final cleaning and prepare the data for dashboard creation. The SQL queries used to create the data structure and prepare it for the dashboard can be found [here](sql/ddl).
+After initial data cleaning in Excel, SQL was used to perform final cleaning and prepare the data for dashboard creation. 
+
+A Data Dictionary for this dataset can be found [here](excel/nexus_digital_data_dictionary.slsx)
+
+An Issues Log containing data quality issues found in the original dataset can be found [here](excel/nexus_digital_issues_log.slsx)
+
+The SQL queries used to create the data structure and prepare it for the dashboard can be found [here](sql/ddl).
 
 Below is an Entity Relationship Diagram (ERD) showing how the data is structured after cleaning.
 
