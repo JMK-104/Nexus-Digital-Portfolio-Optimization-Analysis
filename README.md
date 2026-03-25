@@ -42,7 +42,9 @@ A Data Dictionary for this dataset can be found [here](excel/nexus_digital_data_
 
 An Issues Log containing data quality issues found in the original dataset can be found [here](excel/nexus_digital_issues_log.xlsx)
 
-The SQL queries used to create the data structure and prepare it for the dashboard can be found [here](sql/ddl).
+SQL queries used to create the data structure and prepare it for the dashboard can be found [here](sql/ddl).
+
+SQL queries used to perform data quality checks can be found [here](sql/quality_checks)
 
 Below is an Entity Relationship Diagram (ERD) showing how the data is structured after cleaning.
 
