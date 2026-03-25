@@ -27,6 +27,14 @@ The following Key Performance Indicators (KPIs) will be used to evaluate sales p
 - Audio category shows volatile performance with Q1 post-holiday crashes (52% ROI, Q1 2022) following strong holiday periods (195% ROI, Holiday 2021), suggesting aggressive holiday discounting damages profitability and warrants inventory strategy reassessment
 
 ---
+## Data Structure Overview
+
+The Nexus Digital book of business contains 103,000 records with approximately 25,000 unique customers. This dataset covers data from 2018 to 2023, and is structured as follows:
+
+| ![erd](tableau/images/erd.png) |
+|---|
+---
+
 ## Key Findings and Insights
 
 ### Finance Team
