@@ -33,6 +33,8 @@ The Nexus Digital book of business contains 103,000 records with approximately 2
 
 After initial data cleaning in Excel, SQL was used to perform final cleaning and prepare the data for dashboard creation. The SQL queries used to create the data structure and prepare it for the dashboard can be found [here](sql/ddl).
 
+Below is an Entity Relationship Diagram (ERD) showing how the data is structured after cleaning.
+
 | ![erd](tableau/images/erd.png) |
 |---|
 ---
