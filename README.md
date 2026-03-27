@@ -44,9 +44,9 @@ An Issues Log containing data quality issues found in the original dataset can b
 
 SQL queries used to create the data structure and prepare it for the dashboard can be found [here](sql/ddl).
 
-SQL queries used to perform data quality checks can be found [here](sql/quality_checks)
+SQL queries used to perform data quality checks on transformed data can be found [here](sql/quality_checks)
 
-Below is an Entity Relationship Diagram (ERD) showing how the data is structured after cleaning.
+Below is an Entity Relationship Diagram (ERD) showing how the data is structured after cleaning and transformation.
 
 | ![erd](tableau/images/erd_2.png) |
 |---|
