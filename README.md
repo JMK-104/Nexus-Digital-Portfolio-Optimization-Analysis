@@ -57,6 +57,10 @@ Below is an Entity Relationship Diagram (ERD) showing how the data is structured
 ### Finance Team
 
 #### Revenue Performance
+
+| ![dashboard_screenshot](tableau/images/revenue_performance.png) |
+|---|
+
 *Initial Findings*
   - Total revenue across 2018-2023 reached $125.9M, with monthly revenue climbing to a November 2019 peak of $3.6M before declining to a near-historical low of $0.9M in January 2021, followed by a gradual recovery to a historical high of $4.4M in December 2023
   - Laptops comprise 41% of total revenue, Smartphones 22%, and Tablets 11%; all other categories contribute less than 10% individually, creating significant concentration risk where strategic decisions in the top three categories have an outsized portfolio impact
