@@ -58,7 +58,7 @@ Below is an Entity Relationship Diagram (ERD) showing how the data is structured
 
 #### Revenue Performance
 
-| ![dashboard_screenshot](tableau/images/revenue_performance.png) |
+| ![revenue_performance](tableau/images/revenue_performance.png) |
 |---|
 
 *Initial Findings*
@@ -72,6 +72,10 @@ Below is an Entity Relationship Diagram (ERD) showing how the data is structured
   - 2023 performance recovered to 95-102% of pre-pandemic baseline across all categories, with Latin America showing exceptional growth in Smart Speaker (147%), Smartphone Budget (140%), and Smart Watch Pro (153%)
 
 #### Return on Investment (ROI)
+
+| ![roi_by_category](tableau/images/roi_by_category.png) | ![monthly_roi](tableau/images/monthly_roi.png) |
+|---|---|
+
 *Initial Findings*
   - Smartphones deliver the highest category ROI at 176%, while Audio and Accessories deliver the lowest at 106% and 105% respectively, indicating significant performance dispersion across the portfolio
   - Macro events had measurable impacts on ROI: Trade War, Chip Shortage, and Inflation/Recession created depressive effects, while Tech Boom (2019) and 2023 Economic Recovery provided uplift; COVID-19 Pandemic had the most significant impact, fundamentally disrupting seasonal ROI patterns
