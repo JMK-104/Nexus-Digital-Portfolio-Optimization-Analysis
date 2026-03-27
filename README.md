@@ -86,6 +86,10 @@ Below is an Entity Relationship Diagram (ERD) showing how the data is structured
   - 2021 Chip Shortage caused category-wide revenue contraction vs. baseline: Tablets -52%, Smartphones -45%, Laptops -45%, Wearables -21%; Audio was the sole growth category at 104% vs. baseline, with Smart Speaker in Latin America delivering an exceptional 207% uplift
 
 #### Profit Margin
+
+| ![profit_margin](tableau/images/profit_margin_over_time.png) |
+|---|
+
   - Audio category demonstrates volatile margin performance: Q1 post-holiday crashes to 59% margin (Q1 2022) following strong holiday periods of 65% margin (Holiday 2021), suggesting an aggressive holiday discounting strategy damages subsequent quarter profitability
   - Holiday 2019 and 2021 represented Audio's peak performance at $0.85M revenue/195% ROI/65% margin, followed by Q1 2022 collapse to $0.43M revenue/52% ROI/59% margin and weak Holiday 2022 of $0.57M revenue/104% ROI/46% margin—indicating a systematic post-holiday margin compression pattern
   - 2022 Inflation/Recession period saw all categories perform 74-82% vs. pre-pandemic baseline, with Wearables worst affected (74%) and Smartphones most resilient (82%); notably, all categories below 70% in 2021 showed recovery signs in 2022
