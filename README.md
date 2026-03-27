@@ -48,7 +48,7 @@ SQL queries used to perform data quality checks can be found [here](sql/quality_
 
 Below is an Entity Relationship Diagram (ERD) showing how the data is structured after cleaning.
 
-| ![erd](tableau/images/erd.png) |
+| ![erd](tableau/images/erd_2.png) |
 |---|
 ---
 
