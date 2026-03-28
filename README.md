@@ -87,7 +87,7 @@ Below is an Entity Relationship Diagram (ERD) showing how the data is structured
 
 #### Profit Margin
 
-| ![profit_margin](tableau/images/profit_margin_over_time.png) |
+| ![profit_margin](tableau/images/profit_margin.png) |
 |---|
 
   - Audio category demonstrates volatile margin performance: Q1 post-holiday crashes to 59% margin (Q1 2022) following strong holiday periods of 65% margin (Holiday 2021), suggesting an aggressive holiday discounting strategy damages subsequent quarter profitability
