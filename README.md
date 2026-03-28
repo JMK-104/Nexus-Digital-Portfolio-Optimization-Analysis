@@ -58,7 +58,7 @@ Below is an Entity Relationship Diagram (ERD) showing how the data is structured
 
 #### Revenue Performance
 
-| ![revenue_performance](tableau/images/revenue_performance.png) |
+| ![revenue_performance](tableau/images/revenue_perf.png) |
 |---|
 
 *Initial Findings*
