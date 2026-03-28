@@ -97,6 +97,10 @@ Below is an Entity Relationship Diagram (ERD) showing how the data is structured
 ### Product Team
 
 #### Average Order Value (AOV) & Seasonal Performance
+
+|![revenue_uplift](tableau/images/revenue_uplift.png) |
+|---|
+
 *Initial Findings*
   - AOV shows consistent Q4 spikes annually, with Laptops demonstrating the highest lifetime AOV (~$9.1K in Q1 2020 peak, ~$3.2K lifetime average)
   - While Laptops have the highest absolute AOV, Smartphones show the greatest seasonal uplift, particularly in Q4 (190% vs. baseline), followed by Audio (168%) and Tablets (160%); Laptops demonstrate 157% Q4 uplift
