@@ -15,16 +15,12 @@ The following Key Performance Indicators (KPIs) will be used to evaluate sales p
 ---
 
 ## Executive Summary
-### Finance Team
-- Smartphones deliver the highest ROI at 176% but experienced margin compression from 74% (Q4 2019) to 62% (2020-2022) before recovering to 73% (Q4 2023), presenting a strategic opportunity to capitalize on normalized margins
-- Accessories category generates only 105% ROI—below the 143% portfolio average—with declining performance from 265% ROI (Q2 2020) to 133% ROI (Q4 2023), indicating potential discontinuation candidates
-- Revenue concentration risk: Laptops (41%), Smartphones (22%), and Tablets (11%) comprise 74% of total revenue, meaning portfolio decisions in these categories have an outsized impact on company performance
+Between 2018 and 2023, Nexus Digital generated $125.9M in revenue, reaching a pre-pandemic peak in late 2019 before falling sharply during 2020 and early 2021, then recovering to a new all-time high by the end of 2023. Revenue and profitability remain heavily concentrated in a small number of categories, with Laptops, Smartphones, and Tablets accounting for nearly three-quarters of total revenue, while Smartphones consistently delivered the strongest returns with the highest ROI and strongest Black Friday performance.
 
+The pandemic and subsequent macroeconomic disruptions significantly altered normal sales patterns, temporarily shifting demand away from traditional holiday peaks toward Spring and Back-to-School periods in 2020, while the 2021 chip shortage and 2022 inflationary pressures reduced performance across most categories. Despite these challenges, Laptops proved especially resilient during the pandemic, while Smartphones remained the most durable category overall, recovering faster than most categories and returning to near pre-pandemic profitability by 2023.
 
-### Product Team
-- Macro-economic events significantly disrupted traditional seasonality: COVID-19 pandemic reversed seasonal patterns with Spring 2020 revenue ($3.25M) exceeding Black Friday 2020 ($1.7M), while chip shortage (2021) and inflation (2022) caused category-wide revenue contractions of 18-52% vs. pre-pandemic baseline
-- Black Friday/Holiday season drives 2-2.5x revenue uplift for Smartphones across all regions, while Spring sales generate 2.4x uplift for Monitors and Back-to-School drives 2.2-2.4x uplift for Tablets/Laptops in Latin America, indicating clear inventory allocation priorities by season and geography
-- Audio category shows volatile performance with Q1 post-holiday crashes (52% ROI, Q1 2022) following strong holiday periods (195% ROI, Holiday 2021), suggesting aggressive holiday discounting damages profitability and warrants inventory strategy reassessment
+By 2023, nearly all categories had recovered to pre-pandemic levels, with several regions and products outperforming historical benchmarks. Latin America emerged as a standout growth market across multiple categories, particularly in Smartphones, Smart Speakers, Smart Watches, and seasonal sales events, suggesting strong opportunities for future expansion and portfolio investment.
+
 
 An interactive Tableau dashboard highlighting these findings can be downloaded [here](tableau/dashboard/nexus_digital_finance_dashboard.twbx).
 
